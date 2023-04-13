@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/perfil3.png") top right no-repeat;
+  background: #040404 url("../img/perfil800.png") bottom right no-repeat;
   background-size: fit-content;
   left: 0;
   right: 0;
@@ -61,7 +61,7 @@ h6 {
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
-  /* left: 40%; */
+  /* left: 20%; */
   height: 100vh;
   display: flex;
   align-items: center;
