@@ -489,6 +489,10 @@ section .container {
   border-radius: 0;
 }
 
+.skillsimg{
+  width: 50px;
+  /* position: absolute; */
+}
 .skills .progress .skill {
   padding: 10px 0;
   margin: 0;
